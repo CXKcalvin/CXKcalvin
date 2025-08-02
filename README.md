@@ -5,4 +5,4 @@
 
 ## Statistik Github Saya
 
-![CXKcalvin GitHub stats](https://github-readme-stats.vercel.app/api?username=CXKcalvin&show_icons=true&theme=radical)
+![CXKcalvin GitHub stats](https://github-readme-stats.vercel.app/api?username=CXKcalvin&show_icons=true&theme=radical&locale=id)
