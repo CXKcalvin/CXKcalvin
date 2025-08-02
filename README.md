@@ -7,4 +7,4 @@
 ## Media
 ![https://www.instagram.com/cxk_calvin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.tiktok.com/@cxk_calvin](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/@CXK_calvin)
+![https://www.youtube.com/@CXK_calvin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
