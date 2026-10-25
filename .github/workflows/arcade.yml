@@ -1,0 +1,47 @@
+name: Generate arcade animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      # 1. Checkout repository agar script bisa membaca file
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Generate pacman contribution graph
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      # 3. Pindahkan file hasil generate ke folder 'dist'
+      - name: Move generated files to dist
+        run: |
+          mkdir -p dist
+          # Cari file svg yang baru dibuat dan pindahkan ke folder dist
+          mv *.svg dist/ || true
+
+      # 4. Push file dari folder dist ke branch pacman-output
+      - name: Push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+          commit_msg: "Update pacman contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
