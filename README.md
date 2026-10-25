@@ -68,9 +68,9 @@
 ### `04` my commit
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ### `05` Cihuyyy 🤍
@@ -89,38 +89,16 @@
   </tr>
 </table>
 
-### 
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:CXKcalvin?theme=rule34&padding=5&offset=20&scale=2&align=bottom&pixelated=1&darkmode=1"  />
 </div>
-
-### 
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccodesmithh/ccodesmithh/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ccodesmithh/ccodesmithh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
+<div align="center">Visitors</div>
 
 <div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&text=Thank%20you&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
