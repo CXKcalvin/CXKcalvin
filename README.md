@@ -28,6 +28,8 @@
 </div>
 
 ## `02` Statistik Github Saya
+
+<div align="center">
 <table border="0">
   <tr>
     <td>
@@ -38,6 +40,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ### `03` Media Saya
 
