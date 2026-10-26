@@ -187,7 +187,7 @@
   <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
 </picture>
 
-### `07` Minigame
+### `05` Minigame
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <picture>
