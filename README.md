@@ -9,24 +9,20 @@
   </picture>
 
 
-  <table border="0">
-    <tr>
-      <td>
-      <!-- Profil 1 -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" />
-          <img src="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" width="100%" alt="CXK_calvin animated Living Identity portrait and ASCII name" />
-        </picture>
-      </td>
-      <td>
-      <!-- Profil 2 -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/neofetch?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" />
-          <img src="https://www.gitskins.com/api/section/neofetch?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" width="100%" alt="CXK_calvin: neofetch-style profile card" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+
+  <!-- Profil 1 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/neofetch?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" />
+    <img src="https://www.gitskins.com/api/section/neofetch?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" width="100%" alt="CXK_calvin: neofetch-style profile card" />
+  </picture>
+
+  <!-- Profil 2 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" />
+    <img src="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" width="100%" alt="CXK_calvin animated Living Identity portrait and ASCII name" />
+  </picture>
+        
+
 
 <!-- Profil Ketiga -->
 <!-- ![CXK](./img/CXK.png) -->
@@ -185,22 +181,17 @@
 </picture>
 </p>
 
-<table border="0">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" />
-        <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="CXK_calvin animated project constellation" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" />
-        <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
-      </picture>
-      </td>
-  </tr>
-</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="CXK_calvin animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
+</picture>
+
 
 
 
