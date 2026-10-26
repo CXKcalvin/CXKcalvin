@@ -176,20 +176,20 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&v=oss-projects-1&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&v=oss-projects-1&mode=dark" width="100%" alt="CXK_calvin maintainer repositories" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&v=oss-projects-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&v=oss-projects-1&mode=dark" width="100%" alt="CXK_calvin maintainer repositories" />
 </picture>
 </p>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="CXK_calvin animated project constellation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow&v=wow-projects-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="CXK_calvin animated project constellation" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" />
-  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow-timeline&v=wow-timeline-1&mode=dark" />
+  <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
 </picture>
 
 
