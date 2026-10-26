@@ -1,0 +1,82 @@
+name: Auto Update README Version
+
+on:
+  schedule:
+    # Berjalan otomatis setiap 24 jam (pukul 00:00 UTC setiap hari)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Bisa dijalankan manual lewat tab Actions di GitHub
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Wajib agar action bisa push ke repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Auto-Update Script
+        run: |
+          python -c '
+          import subprocess
+          import re
+
+          # 1. Ambil pesan commit terakhir untuk mendeteksi versi sebelumnya
+          last_commit_msg = subprocess.check_output(["git", "log", "-1", "--pretty=%s"]).decode("utf-8").strip()
+          
+          # Cari format "Update X.Y" menggunakan regex
+          match = re.search(r"Update (\d+)\.(\d+)", last_commit_msg)
+          
+          if match:
+              major = int(match.group(1))
+              minor = int(match.group(2))
+              
+              # Naikkan versi minor
+              minor += 1
+              if minor > 9:
+                  major += 1
+                  minor = 0
+              new_version = f"{major}.{minor}"
+          else:
+              # Default awal jika belum ada format yang cocok
+              new_version = "2.2"
+
+          print(f"Versi baru yang akan digunakan: Update {new_version}")
+
+          # 2. Modifikasi kecil pada README.md (menambahkan/mengubah komentar waktu)
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          # Cari atau buat penanda waktu otomatis di README agar file benar-benar berubah
+          import datetime
+          now_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+          comment_pattern = r"<!-- Last Auto-Update: .*? -->"
+          new_comment = f"<!-- Last Auto-Update: {now_str} -->"
+
+          if re.search(comment_pattern, content):
+              content = re.sub(comment_pattern, new_comment, content)
+          else:
+              content += f"\n{new_comment}\n"
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          # Simpan versi baru ke file temporary agar bisa dibaca step bash berikutnya
+          with open("version.txt", "w") as f:
+              f.write(f"Update {new_version}")
+          '
+
+      - name: Commit and Push changes
+        run: |
+          COMMIT_MSG=$(cat version.txt)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "$COMMIT_MSG"
+          git push
