@@ -2,20 +2,37 @@
   <div data-importer="border">
     <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Welcome%20my%20github&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
   </div>
-  
-  ![CXK](./img/CXK.png) 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin hero visual" />
-</p> 
 
+<!-- Profil Pertama -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/system-scan?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" />
+    <img src="https://www.gitskins.com/api/section/system-scan?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="CXK_calvin animated maintainer system scan" />
+  </picture><br><br>
 
-**CXK_calvin** · Frontend or full-stack engineer
+<!-- Profil kedua -->
+  <!-- <p align="center">
+    <img src="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin hero visual" />
+  </p>  -->
+
+<!-- Profil Ketiga -->
+<!-- ![CXK](./img/CXK.png) -->
+
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/stats?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stats visual" />
+  </p>
+
+  <p align="center">
+    <img src="https://www.gitskins.com/api/section/heatmap?username=cxkcalvin&theme=github-dark" alt="cxkcalvin contribution activity" />
+  </p>
 
 </div>
 
 ## `01` Skill
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stack visual" />
+</p>
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -32,6 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
+
 
 ## `02` Statistik Github Saya
 
@@ -60,12 +78,11 @@
   <a href="https://x.com/CXK_calvin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-  </a>
-</div>
+</div><br>
 
 <div data-importer="music">
+
+  **Spotify**<br>
   <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b6cltsf6kn3ml7rfn3qpbfc57a&count=5" alt="Spotify recently played"  />
   </a>
@@ -73,19 +90,21 @@
 
 ## `04` Cihuyyy 🤍
 
-<table border="0">
-  <tr>
-    <td>
-      <img data-importer="image" height="200" src="https://i.pinimg.com/736x/74/5e/16/745e165d75481e7a55aebda35bdb56f4.jpg"  />
-    </td>
-    <td>
-      <img data-importer="image" height="200" src="https://i.pinimg.com/736x/1b/93/17/1b9317961794ecccc98c05fd3d720503.jpg"  />
-    </td>
-    <td>
-      <img data-importer="image" height="200" src="https://i.pinimg.com/736x/5f/26/3f/5f263f4d37645e681fe75157148b4d23.jpg"  />
-    </td>
-  </tr>
-</table><br><br>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img data-importer="image" height="200" src="https://i.pinimg.com/736x/74/5e/16/745e165d75481e7a55aebda35bdb56f4.jpg"  />
+      </td>
+      <td>
+        <img data-importer="image" height="200" src="https://i.pinimg.com/736x/1b/93/17/1b9317961794ecccc98c05fd3d720503.jpg"  />
+      </td>
+      <td>
+        <img data-importer="image" height="200" src="https://i.pinimg.com/736x/5f/26/3f/5f263f4d37645e681fe75157148b4d23.jpg"  />
+      </td>
+    </tr>
+  </table>
+</div><br><br>
 
 ###
 
@@ -96,7 +115,7 @@
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
@@ -109,53 +128,3 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
 <div align="center"> &copy;2026 CXK(Cipta Xtra Karya)</div>
-
-
-## Delivery pipeline
-
-
-
-## Operating principles
-
-<pre><code>ROLE        = Frontend or full-stack engineer
-LOCATION    = remote
-PUBLIC_REPOS = 15
-COMMUNITY   = 15 followers</code></pre>
-
-&quot;Bersyukurlah ketika merasa lelah, karena tidak semua orang bisa sekuat dirimu. Fokus pada perjalananmu sendiri dan jangan membandingkannya dengan orang lain.&quot;
-
-## Uptime in motion
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=cxkcalvin&theme=github-dark" alt="cxkcalvin contribution activity" />
-</p>
-
-## Service signals
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stats visual" />
-</p>
-
-<p><code>132 contributions</code> · <code>1 day streak</code></p>
-
-## Infrastructure shipped
-
-- **[warung-game](https://github.com/CXKcalvin/warung-game)** — Berbagai Game Game Yang Keren Dengan Harga Terjangkau (Website Ini Hanya Untuk Tugas Kelompok) Dan Ini Hasilnya 👇 · ⭐ 0
-
-## Platform toolkit
-
-<p><code>cxkcalvin@github:~$ toolbox --list</code></p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stack visual" />
-</p>
-
-## Keep it moving
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin social visual" />
-</p>
-
-<a href="https://github.com/cxkcalvin">GitHub</a>
-
-<p align="center"><sub>CXK_calvin · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
