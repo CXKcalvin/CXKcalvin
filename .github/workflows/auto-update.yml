@@ -2,8 +2,8 @@ name: Auto Update README Version
 
 on:
   schedule:
-    # Berjalan otomatis setiap 24 jam (pukul 00:00 UTC setiap hari)
-    - cron: '0 0 * * *'
+    # Dijadwalkan setiap menit (GitHub Actions dapat menunda atau membatasi eksekusinya)
+    - cron: '* * * * *'
   workflow_dispatch: # Bisa dijalankan manual lewat tab Actions di GitHub
 
 jobs:
