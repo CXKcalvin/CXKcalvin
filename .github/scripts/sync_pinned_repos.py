@@ -1,7 +1,9 @@
+
 import json
 import os
 import re
 import sys
+
 from urllib.error import HTTPError, URLError
 from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
@@ -9,9 +11,12 @@ from urllib.request import Request, urlopen
 
 USERNAME = "cxkcalvin"
 README_PATH = "README.md"
+
+# Mencari URL Gitskins di dalam README.
 PROJECT_URL_PATTERN = re.compile(
-    r"https://www\.gitskins\.com/api/section/projects\?[^\s\"']+"
+    r'https://www\.gitskins\.com/api/section/projects\?[^\s"\'<>()]+'
 )
+
 GRAPHQL_QUERY = """
 query {
   user(login: "cxkcalvin") {
@@ -38,45 +43,81 @@ def fetch_pinned_repositories(token):
         },
         method="POST",
     )
+
     try:
         with urlopen(request, timeout=30) as response:
             result = json.load(response)
+
     except (HTTPError, URLError) as error:
-        raise RuntimeError(f"GitHub GraphQL request failed: {error}") from error
+        raise RuntimeError(
+            f"GitHub GraphQL request failed: {error}"
+        ) from error
 
     if result.get("errors"):
-        raise RuntimeError(f"GitHub GraphQL returned errors: {result['errors']}")
+        raise RuntimeError(
+            f"GitHub GraphQL returned errors: {result['errors']}"
+        )
 
     user = (result.get("data") or {}).get("user")
-    if user is None:
-        raise RuntimeError(f"GitHub user {USERNAME!r} was not found")
 
-    return [
+    if user is None:
+        raise RuntimeError(
+            f"GitHub user {USERNAME!r} was not found."
+        )
+
+    repositories = [
         node["nameWithOwner"]
         for node in user["pinnedItems"]["nodes"]
         if node and node.get("nameWithOwner")
     ]
 
+    if not repositories:
+        raise RuntimeError(
+            "Tidak ada pinned repository yang ditemukan. "
+            "README tidak akan diubah."
+        )
+
+    return repositories
+
 
 def update_project_url(url, repositories):
     parts = urlsplit(url)
-    parameters = parse_qsl(parts.query, keep_blank_values=True)
+
+    parameters = parse_qsl(
+        parts.query,
+        keep_blank_values=True
+    )
+
     updated_parameters = []
     repos_added = False
 
     for key, value in parameters:
         if key == "repos":
             if not repos_added:
-                updated_parameters.append(("repos", ",".join(repositories)))
+                updated_parameters.append(
+                    ("repos", ",".join(repositories))
+                )
                 repos_added = True
         else:
             updated_parameters.append((key, value))
 
     if not repos_added:
-        updated_parameters.append(("repos", ",".join(repositories)))
+        updated_parameters.append(
+            ("repos", ",".join(repositories))
+        )
 
-    query = urlencode(updated_parameters, quote_via=quote)
-    return urlunsplit((parts.scheme, parts.netloc, parts.path, query, parts.fragment))
+    query = urlencode(
+        updated_parameters,
+        quote_via=quote
+    )
+
+    return urlunsplit((
+        parts.scheme,
+        parts.netloc,
+        parts.path,
+        query,
+        parts.fragment
+    ))
 
 
 def sync_readme(repositories):
@@ -84,24 +125,44 @@ def sync_readme(repositories):
         content = readme.read()
 
     updated_content, matches = PROJECT_URL_PATTERN.subn(
-        lambda match: update_project_url(match.group(0), repositories), content
+        lambda match: update_project_url(
+            match.group(0),
+            repositories
+        ),
+        content
     )
+
     if matches == 0:
-        raise RuntimeError("No gitskins projects URLs were found in README.md")
+        raise RuntimeError(
+            "No Gitskins project URLs were found in README.md."
+        )
+
     if updated_content == content:
-        print(f"Pinned repository list is already current ({len(repositories)} repos).")
+        print(
+            f"Pinned repository list is already current "
+            f"({len(repositories)} repos)."
+        )
         return False
 
     with open(README_PATH, "w", encoding="utf-8") as readme:
         readme.write(updated_content)
-    print(f"Updated {matches} project URLs with {len(repositories)} pinned repos.")
+
+    print(
+        f"Updated {matches} project URLs "
+        f"with {len(repositories)} pinned repos."
+    )
+
     return True
 
 
 def main():
-    token = os.environ.get("GITHUB_TOKEN")
+    token = os.environ.get("PROFILE_TOKEN")
+
     if not token:
-        raise RuntimeError("GITHUB_TOKEN is required to query pinned repositories")
+        raise RuntimeError(
+            "PROFILE_TOKEN is required to query pinned repositories."
+        )
+
     repositories = fetch_pinned_repositories(token)
     sync_readme(repositories)
 
@@ -109,6 +170,12 @@ def main():
 if __name__ == "__main__":
     try:
         main()
-    except (KeyError, RuntimeError, OSError, ValueError) as error:
+
+    except (
+        KeyError,
+        RuntimeError,
+        OSError,
+        ValueError
+    ) as error:
         print(error, file=sys.stderr)
         sys.exit(1)
