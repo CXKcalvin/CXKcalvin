@@ -66,7 +66,7 @@
 
 <div data-importer="techs" align="center">
 
-<table border="0">
+<table border="1">
   <tr>
     <td><b>Language</b></td>
     <td nowrap>
