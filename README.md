@@ -71,7 +71,7 @@
       <td>
         <b>language</b>
       </td>
-    <td width="100dvw"> 
+    <td width="100%"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -248,8 +248,8 @@
 <div align="center">
   <table>
     <thead>
-      <td width="10%">no</td>
-      <td width="100dvw">Song</td>
+      <td>no</td>
+      <td width="100%">Song</td>
     </thead>
     <tr>
       <td>1</td>
