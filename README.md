@@ -66,7 +66,7 @@
 
 <div data-importer="techs" align="center">
 
-<table border="1" widht="100%">
+<table border="1" width="100%">
   <tr>
       <td>
         <b>language</b>
@@ -242,12 +242,13 @@
   <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fportofolio%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="CXK_calvin animated project launch timeline" />
 </picture>
 
-## `05` Favorit Song
+### `05` Favorit Song
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
   <table>
     <thead>
-      <td width="20%">no</td>
+      <td>no</td>
       <td width="100%">Song</td>
     </thead>
     <tr>
