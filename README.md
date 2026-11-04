@@ -66,12 +66,12 @@
 
 <div data-importer="techs" align="center">
 
-<table border="1" width="100%">
+<table border="1">
   <tr>
       <td>
         <b>language</b>
       </td>
-    <td> 
+    <td width="100dvw"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -248,8 +248,8 @@
 <div align="center">
   <table>
     <thead>
-      <td>no</td>
-      <td width="100%">Song</td>
+      <td width="10%">no</td>
+      <td width="100dvw">Song</td>
     </thead>
     <tr>
       <td>1</td>
