@@ -80,7 +80,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
       </td>
     </tr>
-
     <tr>
       <td width="15%" nowrap>
         <b>Tools</b>
@@ -94,7 +93,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
       </td>
     </tr>
-
     <tr>
       <td width="15%" nowrap>
         <b>Database</b>
@@ -104,7 +102,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB">
       </td>
     </tr>
-
     <tr>
       <td width="15%" nowrap>
         <b>Framework</b>
@@ -114,7 +111,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel">
       </td>
     </tr>
-
     <tr>
       <td width="15%" nowrap>
         <b>System</b>
