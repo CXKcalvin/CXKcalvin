@@ -64,13 +64,13 @@
   <img src="https://www.gitskins.com/api/section/stack?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stack visual" />
 </p>
 
-<table width="100%" border="1">
+<table>
   <tbody>
     <tr>
-      <td width="15%" nowrap>
+      <td>
         <b>Language</b>
       </td>
-      <td width="85%" nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
@@ -79,10 +79,10 @@
       </td>
     </tr>
     <tr>
-      <td width="15%" nowrap>
+      <td>
         <b>Tools</b>
       </td>
-      <td width="85%" nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
@@ -92,28 +92,28 @@
       </td>
     </tr>
     <tr>
-      <td width="15%" nowrap>
+      <td>
         <b>Database</b>
       </td>
-      <td width="85%" nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB">
       </td>
     </tr>
     <tr>
-      <td width="15%" nowrap>
+      <td>
         <b>Framework</b>
       </td>
-      <td width="85%" nowrap>
+      <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel">
       </td>
     </tr>
     <tr>
-      <td width="15%" nowrap>
+      <td>
         <b>System</b>
       </td>
-      <td width="85%" nowrap>
+      <td>
         <img src="https://skillicons.dev/icons?i=linux,mint,windows" height="40" alt="Linux, Mint, Windows">
       </td>
     </tr>
