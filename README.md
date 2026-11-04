@@ -8,8 +8,6 @@
     <img src="https://www.gitskins.com/api/section/wordmark?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&label=CXK_calvin&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="CXK_calvin animated ASCII name" /><br><br>
   </picture>
 
-
-
   <!-- Profil 1 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/neofetch?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&role=Frontend+or+full-stack+engineer&mode=dark" />
@@ -21,7 +19,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" />
     <img src="https://www.gitskins.com/api/section/hero?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&variant=living-identity&label=CXK_calvin&v=wow-living-identity-1&mode=dark" width="100%" alt="CXK_calvin animated Living Identity portrait and ASCII name" />
   </picture>
-        
 
 
 <!-- Profil Ketiga -->
@@ -47,7 +44,6 @@
     <img src="https://www.gitskins.com/api/section/system-scan?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="CXK_calvin animated maintainer system scan" />
   </picture> -->
 
-
   <p align="center">
     <img src="https://www.gitskins.com/api/section/stats?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stats visual" />
   </p>
@@ -56,11 +52,12 @@
     <img src="https://www.gitskins.com/api/section/heatmap?username=cxkcalvin&theme=github-dark" alt="cxkcalvin contribution activity" />
   </p>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;%22Bersyukurlah%20ketika%20merasa%20lelah%2C%20karena%20tidak%20s%E2%80%A6;Building%20with%20PHP%20%C2%B7%20Blade%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;%22Bersyukurlah%20ketika%20merasa%20lelah%2C%20karena%20tidak%20s%E2%80%A6;Building%20with%20PHP%20%C2%B7%20Blade%20%C2%B7%20CSS;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
 
 </div>
 
 ### `01` Skill
+
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
@@ -68,25 +65,80 @@
 </p>
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+
+<table border="1">
+  <tr>
+      <td>
+        <b>language</b>
+      </td>
+    <td> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>
+      Tools
+      </b>
+    </td>
+    <td>
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Database</b>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>
+      Framework
+      </b>
+    </td>
+    <td>
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+    </td>
+  </tr>
+  <tr>
+  <td>
+    <b>
+    System
+    </b>
+  </td>
+ <td>
+    
+[![system](https://skillicons.dev/icons?i=linux,mint,windows)](https://skillicons.dev)
+    
+  </td>
+  </tr>
+</table>
+
 </div>
 
-
 ### `02` Statistik Github Saya
+
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
@@ -103,27 +155,26 @@
 </div>
 
 ### `03` Media Saya
+
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://www.youtube.com/@CXK_calvin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/cxk_calvin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/CXK_calvin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://discord.com/users/1341093973204140092" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.tiktok.com/@cxk_calvin" target="_blank">
+    <img src="img/Tiktok_Logo.png" fill="cover" width="52" height="40" alt="tiktok logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a"" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
   </a>
 </div><br>
-
-<div data-importer="music">
-
-  **Spotify**<br>
-  <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b6cltsf6kn3ml7rfn3qpbfc57a&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <!-- ### `04` Cihuyyy 🤍
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
@@ -181,7 +232,6 @@
 </picture>
 </p>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fkerja-kelompok-pkk%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow&v=wow-projects-1&mode=dark" />
   <img src="https://www.gitskins.com/api/section/projects?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&repos=cxkcalvin%2Fwarung-game%2Ccxkcalvin%2Fkerja-kelompok-pkk%2Ccxkcalvin%2FKerja_Kelompok_part_1&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="CXK_calvin animated project constellation" />
@@ -195,10 +245,42 @@
 ## `05` Favorit Song
 
 <div align="center">
-  <a href="https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8">
-    <img src="https://img.youtube.com/vi/.../0.jpg" width="200px" alt="Listen on Spotify"/>
-    <p>🎵 <b>Dengarkan di Spotify</b></p>
-  </a>
+  <table>
+    <thead>
+      <td>no</td>
+      <td>Song</td>
+    </thead>
+    <tr>
+      <td>1</td>
+      <td>
+        <a href="https://open.spotify.com/intl-id/track/1XGmzt0PVuFgQYYnV2It7A?si=9f7cbfc5e1fc46b0">Paypone</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>
+        <a href="https://open.spotify.com/intl-id/track/2rkUhGw5iWbBY1PE5AnCl8?si=a5dec28d9fdd421f">Self aware</a>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        <a href="https://open.spotify.com/intl-id/track/1UNEuG9DYOWiikf00ayr52?si=84d086d9487d480d">love me not</a>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+        <a href="https://open.spotify.com/intl-id/track/6TTnWaXzirXgyfhdM4sl0Y?si=0693b7c0ebd24b20">Menghapus jejakmu</a>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+        <a href="https://open.spotify.com/intl-id/track/4sJmv194lQKWjytpaxH1Vj?si=a21c07f90ff64d70">separuh aku</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### `06` Minigame
