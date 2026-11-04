@@ -64,7 +64,7 @@
   <img src="https://www.gitskins.com/api/section/stack?username=cxkcalvin&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin stack visual" />
 </p>
 
-<div data-importer="techs" align="center">
+<div align="center">
 
 <table border="1">
   <tr>
