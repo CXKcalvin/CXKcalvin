@@ -66,7 +66,7 @@
 
 <div data-importer="techs" align="center">
 
-<table border="1">
+<table border="1" widht="100dvw">
   <tr>
       <td>
         <b>language</b>
@@ -247,8 +247,8 @@
 <div align="center">
   <table>
     <thead>
-      <td>no</td>
-      <td>Song</td>
+      <td width="20%">no</td>
+      <td width="100dvw">Song</td>
     </thead>
     <tr>
       <td>1</td>
