@@ -71,7 +71,7 @@
       <td>
         <b>language</b>
       </td>
-    <td width="100%"> 
+    <td > 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -245,11 +245,11 @@
 ### `05` Favorit Song
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<div align="center">
+<div>
   <table>
     <thead>
       <td>no</td>
-      <td width="100%">Song</td>
+      <td>Song</td>
     </thead>
     <tr>
       <td>1</td>
