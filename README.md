@@ -154,7 +154,7 @@
 
 ### `02` Statistik Github Saya
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider"/></div>
 
 <div align="center">
 <table border="0">
@@ -189,7 +189,9 @@
   <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a"" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
   </a>
-</div><br>
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider"/></div>
 
 <!-- ### `04` Cihuyyy 🤍
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
