@@ -65,7 +65,6 @@
 </p>
 
 <table border="1" width="100%">
-  <tbody>
     <tr>
       <td>
         <b>Language</b>
@@ -117,7 +116,6 @@
         <img src="https://skillicons.dev/icons?i=linux,mint,windows" height="40" alt="Linux, Mint, Windows">
       </td>
     </tr>
-  </tbody>
 </table>
 
 ### `02` Statistik Github Saya
