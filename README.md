@@ -66,10 +66,9 @@
 
 <div align="center">
 <table border="1" width="100%">
-  <!-- <tr>
-    <td>------------------------------</td>
-    <td>----------------------------------------------------------------------------------------------------------</td>
-  </tr> -->
+  <tr>
+    <td colspan="2"><===============================================================></td>
+  </tr>
     <tr>
       <td>
         <b>Language</b>
@@ -124,7 +123,7 @@
 </table>
 </div>
 
-<div align="left">
+<!-- <div align="left">
 
   **Language**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
@@ -149,7 +148,7 @@
 
   **Operating System**<br>
   <img src="https://skillicons.dev/icons?i=linux,mint,windows" height="40" alt="Linux, Mint, Windows">
-</div>
+</div> -->
 
 
 
