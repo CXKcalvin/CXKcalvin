@@ -266,13 +266,15 @@
 ### `05` Favorit Song
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<div>
+<div align=center>
   <table>
-    <td colspan="2"><===============================================================></td>
     <thead>
+      <td colspan="2"><===============================================================></td>
+    </thead>
+    <tr>
       <td>no</td>
       <td>Song</td>
-    </thead>
+    </tr>
     <tr>
       <td>1</td>
       <td>
