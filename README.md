@@ -222,6 +222,10 @@
 </div>
 <div align="center">Visitors</div><br><br><br><br>
 
+### `04` My commit
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 <!-- commit 1 -->
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CXKcalvin/CXKcalvin/pacman-output/pacman-contribution-graph-dark.svg">
@@ -240,7 +244,7 @@
   <img src="https://www.gitskins.com/api/section/city?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin city visual" />
 </p>
 
-<div align="center">My Commit</div><br>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
 <picture>
@@ -264,6 +268,7 @@
 
 <div>
   <table>
+    <td colspan="2"><===============================================================></td>
     <thead>
       <td>no</td>
       <td>Song</td>
@@ -302,6 +307,7 @@
 </div>
 
 ### `06` Minigame
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/chess?username=cxkcalvin&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4&v=cinematic-chess-1&mode=dark" />
