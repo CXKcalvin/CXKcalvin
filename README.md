@@ -145,7 +145,7 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=cxkcalvin&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<!-- <div data-importer="socials" align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.youtube.com/@CXK_calvin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
@@ -161,7 +161,7 @@
   <a href="https://open.spotify.com/user/31b6cltsf6kn3ml7rfn3qpbfc57a"" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
   </a>
-</div> -->
+</div>
 
 <!-- <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=cxkcalvin&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F180308009%3Fu%3Da43a019c361d95bdf62d780b1f6fbf4fe1a0d972%26v%3D4" alt="cxkcalvin social visual" />
